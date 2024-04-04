@@ -1,4 +1,4 @@
-<img align="centre" alt="Coding" width="900" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966"/>
+![image](https://github.com/codewith1ZAINAB/codewith1ZAINAB/assets/126180116/d0cf38ef-2162-4af5-8a09-2b7e893381dd)![image](https://github.com/codewith1ZAINAB/codewith1ZAINAB/assets/126180116/58ea1feb-079c-43e7-8b29-a69085a09a90)<img align="centre" alt="Coding" width="900" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966"/>
 <h1 align="center">Hi , I'm Syeda zainab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineer;Competitive+Programmer;Content+Writer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -24,7 +24,7 @@
 <p align="center">
 	<a href="mailto:zainabsyed028@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/codewith1ZAINAB"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-	<a href="https://www.linkedin.com/in/zainab-memon-baa2231b6/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/syeda-zainab-41b055214/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 		
 </p>
 
@@ -127,10 +127,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/zainab-Memon/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zainab-Memon&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/codewith1ZAINAB/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zainab-Memon&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainab-Memon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewith1ZAINAB&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -139,6 +139,6 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/zainab-Memon"><img alt="Zainab's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=zainab-Memon&custom_title=Zainab's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/codewith1ZAINAB"><img alt="Zainab's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=codewith1ZAINAB&custom_title=Zainab's%20Contribution%20Graph&theme=react-dark" /></a>
  
 <br/>
