@@ -1,4 +1,3 @@
-![image](https://github.com/codewith1ZAINAB/codewith1ZAINAB/assets/126180116/d0cf38ef-2162-4af5-8a09-2b7e893381dd)![image](https://github.com/codewith1ZAINAB/codewith1ZAINAB/assets/126180116/58ea1feb-079c-43e7-8b29-a69085a09a90)<img align="centre" alt="Coding" width="900" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966"/>
 <h1 align="center">Hi , I'm Syeda zainab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineer;Competitive+Programmer;Content+Writer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
