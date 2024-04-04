@@ -1,10 +1,11 @@
 <h1 align="center">Hi , I'm Syeda zainab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Systems+Engineer;Competitive+Programmer;Content+Writer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Competitive+Programmer;Content+Writer;Video+Editor;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a Computer Systems Engineer.
+- :school: I am a Software Engineer.
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer
 - :student: I’m currently learning: `Web Development and Data Science'
