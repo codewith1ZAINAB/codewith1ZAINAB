@@ -17,6 +17,7 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codewith1ZAINAB&theme=algolia" alt="codewith1ZAINAB" /></p>
 
+
 <br>
 <br>
 
@@ -140,5 +141,7 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/codewith1ZAINAB"><img alt="Zainab's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=codewith1ZAINAB&custom_title=Zainab's%20Contribution%20Graph&theme=react-dark" /></a>
+
+   </br>
  
 <br/>
